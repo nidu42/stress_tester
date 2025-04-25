@@ -1,5 +1,5 @@
-prog1 = "tourist_C"
-prog2 = "ghost_C"
+prog1 = ""
+prog2 = ""
 create_test = "create_test.py"
 
 prog1_is_py = 0
