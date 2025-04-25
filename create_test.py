@@ -10,3 +10,6 @@ for _ in range(t):
     test_file.write("{} {}\n".format(n, k))
     test_file.write(("{} " * n + "\n").format(*a))
 test_file.close()
+
+# this is an example for program that generates tests
+# You have to write your own test generator depending on your problem
